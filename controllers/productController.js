@@ -1,4 +1,4 @@
-product controller
+
 
 
 import productModel from "../models/productModel.js";
