@@ -3,8 +3,9 @@ import categoryModel from "../models/categoryModel.js";
 import orderModel from "../models/orderModel.js";
 import fs from "fs";
 import slugify from "slugify";
-import braintree from "braintree";
 import dotenv from "dotenv";
+import braintree from "braintree";
+
 
 dotenv.config();
 
